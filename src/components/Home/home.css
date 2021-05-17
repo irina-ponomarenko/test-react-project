@@ -1,0 +1,20 @@
+.list-info,
+.list-menu{
+    list-style: none;
+}
+
+.list-menu{
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+}
+
+.list-info li,
+.list-menu li{
+    display: flex;
+    align-items: center;
+}
+
+.list-menu li a{
+    text-decoration: none;
+}
