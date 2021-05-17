@@ -4,7 +4,7 @@ import "./header.css";
 
 import Logo from "../Logo/Logo";
 import Menu from "../Menu/Menu";
-import SocialBlock from "../../SocialBlock/SocialBlock";
+import SocialBlock from "../SocialBlock/SocialBlock";
 
 const Header = () => {
     return(
