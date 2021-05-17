@@ -1,0 +1,8 @@
+.menu-item a{
+    color: black;
+    text-transform: capitalize;
+}
+
+.menu-item a:hover{
+    opacity: 0.5;
+}

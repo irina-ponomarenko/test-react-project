@@ -1,3 +1,14 @@
+body{
+    margin: 0;
+    font-family: "Arial";
+}
+
+.container{
+    max-width: 1180px;
+    width: 100%;
+    margin: 8px auto;
+}
+
 .list-info,
 .list-menu{
     list-style: none;
