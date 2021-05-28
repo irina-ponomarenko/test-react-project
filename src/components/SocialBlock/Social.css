@@ -1,0 +1,23 @@
+ul.social-media-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 0px; /* eliminate space between li */
+}
+
+ul.social-media-list li {
+    display: inline-block;
+    margin: 2px;
+}
+
+ul.social-media-list img {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: lightblue;
+    width: 26px;
+    height: 26px;
+}
+
+ul.social-media-list img:hover {
+    background-color: #63D1F4;
+}
